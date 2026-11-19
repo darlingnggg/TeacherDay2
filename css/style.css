@@ -13,7 +13,7 @@
 
     --title: #1d389d;
     --ink: #1d389d;
-    --ink-soft:#c1cfea;
+    --ink-soft:#6d778a;
     --paper: #f4f2ee;
 
     --env: #2140b2;
@@ -210,7 +210,7 @@ body {
     margin: 0.2rem 0 0;
     justify-self: end;
     font-family: var(--font-hand);
-    font-size: 0.5rem;
+    font-size: 0.6rem;
     color: var(--title);
 }
 
