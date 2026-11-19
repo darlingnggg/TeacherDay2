@@ -1,9 +1,5 @@
 const MESSAGES = [
     {
-        vi: "Cảm ơn Thầy Cô đã kiên nhẫn với cả những câu hỏi ngây ngô nhất của em.",
-        en: "Thank you for your patience with even my silliest questions."
-    },
-    {
         vi: "Chúc Thầy Cô luôn mạnh khỏe, vui vẻ, và mỗi ngày đứng lớp đều nhẹ nhàng.",
         en: "Wishing you good health, joy, and many easy days in the classroom."
     },
